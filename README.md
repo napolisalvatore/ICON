@@ -1,2 +1,2 @@
 # ICON
-Progetto esame Ingegneria della conoscenza
+Progetto Ingegneria della conoscenza
