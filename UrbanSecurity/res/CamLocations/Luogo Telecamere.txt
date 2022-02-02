@@ -1,0 +1,56 @@
+1 = Corso Sidney Sonnino, 70121 Bari BA
+2 = Via Sparano da Bari, 97, 70121 Bari BA
+3 = Via Abate Giacinto Gimma, 70122 Bari BA
+4 = Via Alessandro Manzoni, 70122 Bari BA
+5 = Via Benedetto Cairoli, 2, 70122 Bari BA
+6 = Via Nicolò Putignani, 70121 Bari BA
+7 = Via Dante Alighieri, 24, 70121 Bari BA
+8 = Via Andrea da Bari, 59, 70122 Bari BA
+9 = Corso Benedetto Croce, 70125 Bari BA
+10 = Corso A. de Gasperi, 429, 70125 Bari BA
+11 = Via Bruno Buozzi, 3-13, 70132 Bari BA
+12 = Viale Biagio Accolti Gil, 22, 70132 Zona Industriale BA
+13 = V.le Francesco de Blasio, 70132 Zona Industriale BA
+14 = Via Giambattista Bonazzi, 70122 Bari BA
+15 = Molo S. Nicola, 1, 70121 Bari BA
+16 = Piazza Aldo Moro, 13, 70123 Bari BA
+17 = Lungomare Armando Perotti, 70126 Bari BA
+18 = Piazza del Redentore, 230c, 70123 Bari BA
+19 = Piazza Giulio Cesare, 70122 Bari BA
+20 = Via della Resistenza, 154, 70125 Bari BA
+21 = Piazza Umberto I, 1, 70121 Bari BA
+22 = Piazza Mercantile, 70122 Bari BA
+23 = Strada Casamassimi, 11, 70122 Bari BA
+24 = Piazza del Ferrarese, 10, 70122 Bari BA
+25 = Piazza S. Nicola, 13, 70122 Bari BA
+26 = Piazza Armando Diaz, 70121 Bari BA
+
+
+
+Corso Sidney Sonnino (41.119167, 16.882222)
+Via Sparano, (41.122500, 16.869444)
+Via Calefati,(41.123611, 16.863889)
+Via Abate Gimma,(41.124444, 16.864722)
+Via Manzoni(41.121389, 16.861389)
+Via Nicolò Piccinni(41.125278, 16.867222)
+Via Putignani(41.123333, 16.871667)
+via Dante[3](41.121944, 16.871667)
+Via Andrea da Bari(41.124167, 16.868611)
+Corso Benedetto Croce(41.111944, 16.871944)
+Corso Alcide de Gasperi(41.092500, 16.870000)
+Via Bruno Buozzi[6](41.118611, 16.842778)
+Viale Biagio Accolti Gil[5](41.119722, 16.811111)
+Viale Francesco de Blasio[7](41.115556, 16.810556)
+Via Napoli[8](41.126667, 16.863056)
+Molo San Nicola(41.125556, 16.874167)
+piazza aldo moro, (41.118333, 16.870000)
+gramsci,(41.118333, 16.890000)
+redentore,(41.118889, 16.856389) 
+giulio cesare,(41.112222, 16.862778)
+parco 2 giugno,(41.102500, 16.874722) 
+piazza unmberto I,(41.120556, 16.869167)
+mercantile,(41.128056, 16.871944)
+largo albicocca,(41.127222, 16.867778)
+piazza ferrarese,(41.127222, 16.871667)
+piazza san nicola,(41.130278, 16.869444)
+piazza armando diaz(41.122500, 16.878056)
